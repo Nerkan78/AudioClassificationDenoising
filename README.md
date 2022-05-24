@@ -1,6 +1,6 @@
 # AudioClassificationDenoising
 
-Module `multiplicate.py` contains function `multiplicate` which is the solution to the first problem.
+Module `multiplication.py` contains function `multiplicate` which is the solution to the first problem.
 
 Modules `train.py` and `eval.py` implement the solution to the second problem. Running `train.py` will train and save model for the corresponding task. Running `eval.py` will evaluate and report the perfomance. Note that for `eval.py` you should provide path for the pretrained model.
 
